@@ -1,13 +1,4 @@
-# KODOTI-XCHANGE
-Este proyecto ha sido creado para el curso de KODOTI y nos permite generar un componente para visualizar
-el tipo de cambio del dolar americano de algunos paises.
 
-Si quieres aprender sobre TypeScript participa de nuestro curso en el siguiente enlace:
-
-[https://kodoti.com/cursos/typescript-desde-cero](https://kodoti.com/cursos/typescript-desde-cero)
-
-## Sobre el proyecto
-Este integra WebPack para facilitar el desarrollo de nuestro proyecto permitiendo compilar el proyecto cuando queramos pasarlo a producción y levantar un servidor local para nuestra etapa de desarrollo.
 
 Basicamente para integrar webpack necesitamos los siguientes paquetes adicionales:
 
