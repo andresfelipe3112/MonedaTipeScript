@@ -23,6 +23,6 @@ Dentro del proyecto tenemos un archivo principal que es donde se visualizará lo
 ## Modo producción
 Cuando estemos listo para generar todo nuestro proyecto basta con ejecutar `npm run build` y se generar un compilado en un solo archivo en la siguiente ruta **build/bundle.js**.
 
-KODOTI - ¡Aprende más, haciendo pequeños proyectos!
+
 
 
